@@ -1,0 +1,1 @@
+INSERT INTO F (x, y, violation, motivation) VALUES ("ABC", "EF", 0, "Kunt alle attributen krijgen");

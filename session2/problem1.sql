@@ -20,12 +20,11 @@ INSERT INTO Problem1 (task, result, motivation)
 VALUES("G", 0, "Voertuig kan door meerderen worden bestuurd");
 
 INSERT INTO Problem1 (task, result, motivation) 
-VALUES("H", 0, "Bezorger kan meerdere voertuigen gebruiken");
+VALUES("H", 1, "elke Voertuig heeft een set van Bezorgers");
 
 INSERT INTO Problem1 (task, result, motivation) 
-VALUES("I", 0, "Bezorger kan meerdere voertuigen gebruiken");
-
+VALUES("I", 0, "Voertuig heeft maar een Capaciteit");
 
 INSERT INTO Problem1 (task, result, motivation) 
-VALUES("J", 0, "Bezorger kan meerdere voertuigen gebruiken");
+VALUES("J", 0, "?????????????????????????????");
 
